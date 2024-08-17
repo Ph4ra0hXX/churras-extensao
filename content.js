@@ -125,7 +125,7 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
                 white-space: pre-wrap; /* Mantém as quebras de linha e espaços */
                }
                </style>
-                   `;
+                  `;
 
                 // Define o conteúdo do documento do iframe, incluindo o estilo e o conteúdo formatado
                 iframeDoc.open();
